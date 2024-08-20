@@ -1,3 +1,10 @@
+Walkthough video:
+https://youtu.be/K9f7gUxDUwU
+
+
+
+Criteria:
+
 AS a freelance web developer
 I WANT to generate a simple logo for my projects
 SO THAT I don't have to pay a graphic designer
@@ -16,3 +23,10 @@ THEN an SVG file is created named `logo.svg`
 AND the output text "Generated logo.svg" is printed in the command line
 WHEN I open the `logo.svg` file in a browser
 THEN I am shown a 300x200 pixel image that matches the criteria I entered
+
+Thank you to Patrick Quirk for helping
+
+I used code from a repo by orian42 for the first half of the shapes file.
+check it out here: https://github.com/orian42/svgLogoMaker
+
+ChatGPT helped with shape-tests.js
