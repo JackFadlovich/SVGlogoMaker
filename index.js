@@ -39,7 +39,7 @@ async function logoInfo() {
 </svg>`;
 
     fs.writeFileSync('logo.svg', svgContent.trim());
-    console.log('Generated made successfully');
+    console.log('Generated logo successfully');
 }
 
 logoInfo();
